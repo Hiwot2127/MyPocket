@@ -1,8 +1,6 @@
 # MyPocket
 MyPocket is a financial Java-based application designed to help users manage their personal expenses efficiently. The application supports a wide range of functionalities, including adding, editing, deleting, categorizing, and viewing expenses. Additionally, users can sort expenses and generate detailed financial reports to gain insights into their spending patterns.
 
-Features
-
 ## Features
 
 - Add new expenses
